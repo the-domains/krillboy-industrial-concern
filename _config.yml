@@ -1,0 +1,28 @@
+name: Krillboy Industrial Concern
+favicon: null
+layout_spectrum: 0.7275321148335934
+typography_spectrum: 0.04970751889050007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3321405462920666
+  lightness: 0.17266013915650547
+  saturation: 0.9845053364988416
+  rhythmicContrast: 0.7631008306052536
+purpose: []
